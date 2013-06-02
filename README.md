@@ -1,4 +1,5 @@
 clavicom
 ========
 
-Clavicom Ng
+ClavicomX (Fork du projet clavicom NG)
+
